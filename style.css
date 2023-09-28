@@ -121,7 +121,7 @@ h6 {
 }
 .svg-wave {
 	position: absolute;
-	bottom: 10%;
+	bottom: -10%;
 	width: 100%;
 }
 .banner-text {
