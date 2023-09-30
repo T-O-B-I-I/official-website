@@ -122,7 +122,6 @@ h6 {
 .svg-wave {
 	position: absolute;
 	bottom: -10%;
-	width: 100%;
 }
 .banner-text {
 	padding-right:80px;
@@ -320,6 +319,17 @@ h6 {
 	font-size: 17px;
 	margin-bottom: 0px;
 }
+.section-content .coll-md-4{
+	padding: 75px;
+	margin-left: 5px;
+	align-items: center;
+}
+
+
+.section-content .row{
+	align-items: center;
+}
+
 .testimonial {
 	background: #7a60ff;
 	background: linear-gradient(to left, #7a60ff, #cd9ffa);
