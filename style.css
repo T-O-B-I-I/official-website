@@ -320,9 +320,9 @@ h6 {
 	margin-bottom: 0px;
 }
 .section-content .coll-md-4{
-	padding: 75px;
+	padding: 55px;
 	margin-left: 5px;
-	align-items: center;
+	/*align-items: center;*/
 }
 
 .section-content .coll-md-4 img{
@@ -330,9 +330,9 @@ h6 {
 	height: 130px;
 }
 
-.section-content .row{
+/*.section-content .row{
 	align-items: center;
-}
+}*/
 
 .testimonial {
 	background: #7a60ff;
