@@ -325,6 +325,10 @@ h6 {
 	align-items: center;
 }
 
+.section-content .coll-md-4 img{
+	width: 10px;
+	height: 10px;
+}
 
 .section-content .row{
 	align-items: center;
