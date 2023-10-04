@@ -325,6 +325,7 @@ h6 {
 	padding: 55px;
 	margin-left: 5px;
 	/*align-items: center;*/
+	
 }
 
 .section-content .coll-md-4 img{
@@ -333,7 +334,24 @@ h6 {
 }
 
 .section-content .row .btnn {
-	margin-left: 30rem;
+	text-align: center;
+	margin: auto;
+    width: 50%;
+}
+.section-content .row .btnn .about-btnn{
+	color: #8e1efc;
+	padding: 10px 40px;
+	border: 2px solid #8e1efc;
+	border-radius: 7px;
+	margin-top: 30px;
+	display: inline-block;
+	font-size: 18px;
+}
+
+.section-content .row .btnn .about-btnn:hover{
+	background:#8e1efc;
+	color:#ffffff;
+	text-decoration:none;
 }
 
 /*.section-content .row{
@@ -449,7 +467,7 @@ input {
 	transition: all 0.3s ease-in-out;
 }
 .btn-grad {
- padding: .7rem 2rem;
+    padding: .7rem 2rem;
 	display: inline-block;
 	color: #fff;
 	border-radius: 2rem;
@@ -549,11 +567,7 @@ h3 {
 .sectioner-header p {
 	font-size: 14px;
 }
-.about-btn {
-	padding: 5px 30px;
-	margin-top: 0px;
-	font-size: 16px;
-}
+
 .single-feature {
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -563,6 +577,13 @@ h3 {
 }
 .team-detail img {
 	width: 50%;
+}
+.coll-md-4 img{
+	width: 10px;
+}
+.section-content .row .coll-md-4{
+	margin: auto;
+    width: 50%;
 }
 .bx-controls
 {
